@@ -4,7 +4,7 @@ This repository is aimed to collect and store information related to accessibili
 
 ## Presentation
 
-[Accessibility testing presentation](https://github.com/serhiisobur/accessibility-demo-presentation/presentation/accessibility_testing_presentation.pdf)
+[Accessibility testing presentation](https://github.com/serhiisobur/accessibility-demo-presentation/blob/main/presentation/accessibility_testing_presentation.pdf)
 
 ## Standarts and Legal acts
 

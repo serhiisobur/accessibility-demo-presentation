@@ -58,9 +58,9 @@ This repository is aimed to collect and store information related to accessibili
 
 [ARC Toolkit](https://www.tpgi.com/arc-platform/arc-toolkit/)
 
-[Web Developer extention for Chrome] (https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+[Web Developer extention for Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 
-[Web Developer extention for Firefox] (https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
+[Web Developer extention for Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/)
 
 ### Screen Readers
 
